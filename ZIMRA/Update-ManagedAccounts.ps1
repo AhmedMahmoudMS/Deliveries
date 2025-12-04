@@ -124,3 +124,7 @@ try {
     if ($StartTranscript) {
         try { Stop-Transcript | Out-Null } catch {}
     }
+}
+
+#git config --global user.name "Ahmed Mahmoud"
+#git config --global user.email "v-ahmmahmou@microsoft.com"
